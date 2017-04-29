@@ -1,16 +1,16 @@
 {
-  "name": "accounts-parser",
-  "description": "csv parser for accounts",
+  "name": "js-katabase",
+  "description": "a base for doing code katas in js",
   "version": "0.1.0",
-  "author": "Vince Lee (info@polyhatsoftware.co.uk",
+  "author": "Vince Lee (@vincelee888)",
   "private": false,
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/vincelee/accounts-parser.git"
+    "url": "https://github.com/vincelee888/js-katabase"
   },
   "bugs": {
-    "url": "https://github.com/fephil/accounts-parser/issues"
+    "url": "https://github.com/vincelee888/js-katabase/issues"
   },
   "engines": {
     "node": ">= 6"
@@ -41,6 +41,8 @@
     ]
   },
   "standard": {
-    "globals": [ "_" ]
+    "globals": [
+      "_"
+    ]
   }
 }
