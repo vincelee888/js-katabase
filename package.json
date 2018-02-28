@@ -29,7 +29,6 @@
     "gulp-util": "3.0.8",
     "jasmine": "2.5.2",
     "path": "0.12.7",
-    "require-dir": "0.3.1",
     "run-sequence": "1.2.2",
     "sinon": "1.17.7",
     "yargs": "6.6.0"
